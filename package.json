@@ -1,0 +1,19 @@
+{
+  "name": "graphql-server-with-node-express",
+  "version": "1.0.0",
+  "description": "GraphQL server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dushanrandika/GraphQL-server-with-node-express.git"
+  },
+  "author": "Dushan Ranasinghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dushanrandika/GraphQL-server-with-node-express/issues"
+  },
+  "homepage": "https://github.com/dushanrandika/GraphQL-server-with-node-express#readme"
+}
